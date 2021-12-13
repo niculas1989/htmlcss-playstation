@@ -12,8 +12,10 @@
 
 #returnal-game {
     height: 800px;
-    width: 1500px%;
-    overflow: hidden;
     background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+
+    
+    /* max-width: 100%;
     background-repeat: no-repeat;
+    background-position: -900px -150px; */
 }
