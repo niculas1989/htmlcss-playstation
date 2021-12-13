@@ -10,6 +10,10 @@
     font-size: 10px;
 }
 
-#header-bottom .collapse.navbar-collapse {
-    width: 100%;
+#returnal-game {
+    height: 800px;
+    width: 1500px%;
+    overflow: hidden;
+    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    background-repeat: no-repeat;
 }
