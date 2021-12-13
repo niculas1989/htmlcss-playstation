@@ -1,5 +1,15 @@
+/* Header */
+
 #header-top {
     height: 50px;
     width: 100%;
     background-color: black;
+}
+
+#header-bottom i {
+    font-size: 10px;
+}
+
+#header-bottom .collapse.navbar-collapse {
+    width: 100%;
 }
