@@ -12,10 +12,30 @@
 
 #returnal-game {
     height: 800px;
-    background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 
-    
+
     /* max-width: 100%;
     background-repeat: no-repeat;
     background-position: -900px -150px; */
+}
+
+
+#takes-two-games {
+    height: 600px;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#games {
+    background-color: #1F1F1F;
+}
+
+#games img {
+    border-radius: 15px;
 }
