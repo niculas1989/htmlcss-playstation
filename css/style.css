@@ -18,9 +18,14 @@
     background-position: center;
 }
 
+.btn-darkorange {
+    background-color: #CD3D10;
+    color: white;
+}
+
 
 #takes-two-games {
-    height: 600px;
+    height: 500px;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
