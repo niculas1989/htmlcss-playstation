@@ -10,6 +10,10 @@
     font-size: 10px;
 }
 
+#header-bottom {
+    width: 100%;
+}
+
 #returnal-game {
     height: 800px;
     background-image: url(../img/jumbo-bg.png);
@@ -18,9 +22,17 @@
     background-position: center;
 }
 
+#navbarNav .navbar-nav {
+    width: 100%;
+}
+
 .btn-darkorange {
     background-color: #CD3D10;
     color: white;
+}
+
+.btn-grey {
+    background-color: #363636;
 }
 
 
