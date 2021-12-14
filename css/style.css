@@ -52,3 +52,18 @@ footer {
     height: 15px;
     width: 15px;
 }
+
+#logo-play {
+    /* height: 100px; */
+    width: 100px;
+}
+
+#logo-sony {
+    /* height: 100px; */
+    width: 150px;
+}
+
+footer .nav-link {
+    color: white;
+    text-decoration: none;
+}
