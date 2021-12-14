@@ -84,3 +84,7 @@ footer .nav-link {
     color: white;
     text-decoration: none;
 }
+
+#logo-play {
+    filter:invert(50%)
+}
