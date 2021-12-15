@@ -65,17 +65,17 @@ footer {
     background-color: #07449C;
 }
 
-#globe {
+.globe {
     height: 15px;
     width: 15px;
 }
 
-#logo-play {
+.logo-play {
     /* height: 100px; */
     width: 100px;
 }
 
-#logo-sony {
+.logo-sony {
     /* height: 100px; */
     width: 150px;
 }
@@ -85,6 +85,6 @@ footer .nav-link {
     text-decoration: none;
 }
 
-#logo-play {
+.logo-play {
     filter:invert(50%)
 }
