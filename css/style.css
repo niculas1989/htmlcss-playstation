@@ -94,6 +94,14 @@ footer .nav-link {
     filter:invert(50%)
 }
 
+.hover-opt {
+    opacity: 0.5;
+}
+
+.hover-opt:hover {
+    opacity: 1;
+}
+
 
 
 
