@@ -94,6 +94,12 @@ footer .nav-link {
     filter:invert(50%)
 }
 
+
+
+
+
+/* // BONUS */
+
 .hover-opt {
     opacity: 0.5;
 }
@@ -102,13 +108,11 @@ footer .nav-link {
     opacity: 1;
 }
 
-
-
-
-/* // BONUS */
-
-
 /* .btn:hover {
     box-shadow: 5px 10px #888888;
 } */
 
+
+#images-games img:hover {
+    transform: translateY(-20px);
+}
