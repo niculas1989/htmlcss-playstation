@@ -19,7 +19,8 @@ body {
 }
 
 #returnal-game {
-    height: 800px;
+    /* height: 800px; */
+    padding-top: 230px;
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-repeat: no-repeat;
